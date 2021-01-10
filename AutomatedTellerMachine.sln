@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedTellerMachine", "AutomatedTellerMachine\AutomatedTellerMachine.csproj", "{CA3322F6-E170-45B5-AA8E-E37489614A19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedTellerMachine.Tests", "AutomatedTellerMachine.Tests\AutomatedTellerMachine.Tests.csproj", "{3FC107C1-F265-4938-BE7C-9D6D5C09E076}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA3322F6-E170-45B5-AA8E-E37489614A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA3322F6-E170-45B5-AA8E-E37489614A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA3322F6-E170-45B5-AA8E-E37489614A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA3322F6-E170-45B5-AA8E-E37489614A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FC107C1-F265-4938-BE7C-9D6D5C09E076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC107C1-F265-4938-BE7C-9D6D5C09E076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC107C1-F265-4938-BE7C-9D6D5C09E076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC107C1-F265-4938-BE7C-9D6D5C09E076}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39758957-88C2-40FD-8F4A-05927E5E2954}
+	EndGlobalSection
+EndGlobal
